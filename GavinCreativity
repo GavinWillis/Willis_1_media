@@ -1,0 +1,31 @@
+
+<markup><!--
+This is of course a SGML/XML comment which can be ignored and
+as such can also be used to add hidden newlines into this demo.
+
+Markup language syntax...
+  http://www.pygtk.org/docs/pygtk/pango-markup-language.html
+  http://www.ibm.com/developerworks/library/l-u-pango1/
+
+Viewing this file...
+  pango-view --dpi=72 --markup pango_test.txt
+
+  convert pango:@pango_test.txt show:
+
+--><span fgcolor="green" bgcolor="orange" size="40000">Gavin's Creativity</span>
+
+Creativity is <b><big><span fgcolor="magenta">Loud!</span></big></b>
+Creativity is <i><big><span fgcolor="purple">Fancy</span></big></i>
+Creativity is <b><big><big><span fgcolor="green">W</span></big></big></b><i><span fgcolor="red">e</span></i><b><big><span fgcolor="purple">I</span></big></b><i><big><big><span fgcolor="blue">r</span></big></big></i><b><span fgcolor="orange">D</span></b><i><big><big><big><span fgcolor="magenta">!</span></big></big></big></i>
+
+Buttz
+<span fgcolor="pink" bgcolor="darkred">buttz</span><!--
+--><span fgcolor="magenta" bgcolor="red" rise="10000">buttz</span><!--
+--><span fgcolor="purple" bgcolor="orange" rise="20000">buttz</span><!--
+--><span fgcolor="blue" bgcolor="yellow" rise="10000">buttz</span><!--
+--><span fgcolor="green" bgcolor="lightgreen">buttz</span><!--
+--><span fgcolor="yellow" bgcolor="blue" rise="-10000">buttz</span><!--
+--><span fgcolor="orange" bgcolor="purple" rise="-20000">buttz</span><!--
+--><span fgcolor="red" bgcolor="magenta" rise="-10000">buttz</span><!--
+--><span fgcolor="darkred" bgcolor="pink" >buttz</span></markup>
+
