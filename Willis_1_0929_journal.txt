@@ -1,0 +1,2 @@
+for font in $(cat fonts.txt); do convert -background lightblue -fill blue -font
+"$font" -pointsize 64 label:"Ninja Willis" "$font"_ninja.gif; done
