@@ -1,0 +1,2 @@
+i don't even know how to use for loops to make pictures, so i would not be 
+able to explain how to make sound with a for loop.
