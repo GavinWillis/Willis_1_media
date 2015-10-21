@@ -1,0 +1,8 @@
+A beat is a repeated rhythmic pattern usually represented by a drum.
+We will use this too keep time in our EarSketch music art project.
+
+
+A variable is a value that can be changed at any time. We could use variables 
+in our music to change the beat and change the pitch of a noise.
+
+A datatype is any data used in a program.
