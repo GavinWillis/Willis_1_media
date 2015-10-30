@@ -1,0 +1,10 @@
+We use disk images in Digital Forensics because we dont want to mess up disk
+that is suspected to have stuff on it, if we make an image of it, we can mess 
+up as many copies of an image without ruining the original. 
+
+Like if we have a criminals hard drive and we need to look at the stuff thats
+on it without accidentaly deleting or corrupting any files. So we would make 
+an image of the hard drive to be able to do stuff with the criminals 
+information. 
+
+It relates to the OSI model because hard drives are on the physical layer.
