@@ -1,0 +1,4 @@
+I dont know what commands i will have to reproduce.
+
+I will be asked to demonstrate stuff imagemagick, basic linux commands and 
+openshot stuff.
